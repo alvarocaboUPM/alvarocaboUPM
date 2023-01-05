@@ -195,9 +195,5 @@
       <p><a href="github.com/alvarocabo">@alvarocabo</a></p>
     </div>
    </div>
-   <div class="container">
-      <button class="btn btn-primary" class="html2PdfConverter" onclick="createPDF()"
-      >HTML to PDF</button>
-   </div>
   </body>
 </html>
