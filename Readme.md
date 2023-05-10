@@ -85,9 +85,9 @@
             <tr>
               <td>2</td>
               <td>Estructura de Computadores</td>
-              <td>Proyecto Codificador-Decodificador</td>
+              <td>Proyecto Codificador-Decodificador (DECRAPTED)</td>
               <td>Ensamblador m88110 Motorola</td>
-              <td class="alert alert-success">Completado</td>
+              <td class="alert alert-danger">Eliminado</td>
             </tr>
             <tr>
               <td>2</td>
@@ -189,7 +189,7 @@
             <tr>
               <td>3</td>
               <td>
-                <a href="https://github.com/alvarocaboUPM/SOS"
+                <a href="https://github.com/alvarocaboUPM/SSDD"
                   >Sistemas Distribuidos (SSDD)</a
                 >
               </td>
