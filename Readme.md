@@ -104,7 +104,7 @@
               <td>2</td>
               <td>
                 <a
-                  href="https://github.com/alvarocabo/UPM/tree/main/Bases%20de%20Datos"
+                  href="https://github.com/alvarocaboUPM/BBDD"
                   >Bases de Datos</a
                 >
               </td>
@@ -151,7 +151,7 @@
             <tr>
               <td>3</td>
               <td>
-                <a href="https://github.com/alvarocaboUPM/MiniShell_SSOO"
+                <a href="https://github.com/alvarocaboUPM/SSOO"
                   >Sistemas Operativos - Minishell</a
                 >
               </td>
