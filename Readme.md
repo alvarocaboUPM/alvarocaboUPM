@@ -137,7 +137,7 @@
             <tr>
               <td>3</td>
               <td>
-                <a href="https://github.com/alvarocaboUPM/PDL"
+                <a href="https://github.com/alvarocaboUPM/JS-PDL"
                   >Procesador de Lenguajes</a
                 >
               </td>
@@ -184,7 +184,7 @@
                 API REST y Webservice desarrollado en Java Guersey
               </td>
               <td>Java</td>
-              <td class="alert alert-info">En desarrollo</td>
+              <td class="alert alert-success">Completado</td>
             </tr>
             <tr>
               <td>3</td>
@@ -210,7 +210,7 @@
                 Prácticas obligatorias y ejercicios semanales de lógica.
               </td>
               <td>Ciao Prolog</td>
-              <td class="alert alert-info">En desarrollo</td>
+              <td class="alert alert-success">Completado</td>
             </tr>
             <tr>
               <td>4</td>
@@ -220,10 +220,10 @@
                 >
               </td>
               <td>
-                Práctica obligatoria y ejercicios semanales de elixir.
+                Casa de apuestas en tiempo real (BetUnfair).
               </td>
               <td>Elixir</td>
-              <td class="alert alert-info">En desarrollo</td>
+              <td class="alert alert-success">Completado</td>
             </tr>
           </tbody>
         </table>
